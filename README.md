@@ -1,2 +1,2 @@
-# 16YOIan.github.io
-A Personal Websit
+# tyleransom.github.io
+Repository for Tyler Ransom's academic research website.
